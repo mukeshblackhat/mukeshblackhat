@@ -6,7 +6,6 @@ I am [Mukesh](https://github.com/mukeshblackhat) , a BE  Student at Army Institu
 - 🌱 I’m know how to build applications with MERN Stack and deploy them completely at ready to use level.
 - 📫 How to reach me: 
     [LinkedIn](https://www.linkedin.com/in/mukesh-bishnoi/)
-    [Instagram](https://www.instagram.com/mukesh_29_fb/?hl=en)
 
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
 - ⚡ Some Full stack projects build by me to help students in my college , [Innvoice Manager](https://inovice-application.vercel.app/),  [User Tracker](https://profile-tracker-mukeshblackhat.vercel.app/) and [Property Search](https://reunion-puce.vercel.app/).
