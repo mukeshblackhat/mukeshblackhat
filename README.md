@@ -53,4 +53,3 @@ I am [Mukesh](https://github.com/mukeshblackhat) , a BE  Student at Army Institu
 
 
   -  [LinkedIn](https://www.linkedin.com/in/mukesh-bishnoi/)
-  -  [Instagram](https://www.instagram.com/mukesh_29_fb/?hl=en)
