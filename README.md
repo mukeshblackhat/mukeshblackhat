@@ -34,9 +34,6 @@ I am [Mukesh](https://github.com/mukeshblackhat) , a BE  Student at Army Institu
 
 <br />
 <br />
-
-[![Mukesh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mukeshblackhat&theme=react-dark)](https://git.io/mukeshblackhat)
-
 <br />
 
 ## :trophy:  My Github Stats:
