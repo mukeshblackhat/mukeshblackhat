@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am [Mukesh](https://github.com/mukeshblackhat) , a BE  Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+I am [Mukesh](https://github.com/mukeshblackhat) , a Software Developer  in making scalable web applications which can be used by people and help them to do certain work easily.
 
 
 - 🌱 I’m know how to build applications with MERN Stack and deploy them completely at ready to use level.
@@ -8,7 +8,7 @@ I am [Mukesh](https://github.com/mukeshblackhat) , a BE  Student at Army Institu
     [LinkedIn](https://www.linkedin.com/in/mukesh-bishnoi/)
 
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
-- ⚡ Some Full stack projects build by me to help students in my college , [Innvoice Manager](https://inovice-application.vercel.app/),  [User Tracker](https://profile-tracker-mukeshblackhat.vercel.app/) and [Property Search](https://reunion-puce.vercel.app/).
+- ⚡ Some Full stack projects build by me to help students in my college , [LinkedGPT]([https://inovice-application.vercel.app/](https://chromewebstore.google.com/detail/chatzy-ai-%E2%80%93-linkedin-assi/kjffpdeflcpflmilnjgfhiheonjnalfo)) and   [Portfolio](https://mukeshbishnoi.me/).
 
 
 ### We can have chat at any social platform:
