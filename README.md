@@ -8,7 +8,7 @@ I am [Mukesh](https://github.com/mukeshblackhat) , a Software Developer  in Unol
     [LinkedIn](https://www.linkedin.com/in/mukesh-bishnoi/)
 
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
-- ⚡ Some Full stack projects build by me to help students in my college , [LinkedGPT]([https://inovice-application.vercel.app/](https://chromewebstore.google.com/detail/chatzy-ai-%E2%80%93-linkedin-assi/kjffpdeflcpflmilnjgfhiheonjnalfo)) and   [Portfolio](https://mukeshbishnoi.me/).
+- ⚡ Some Full stack projects build by me to help students in my college , [LinkedGPT](https://chromewebstore.google.com/detail/chatzy-ai-%E2%80%93-linkedin-assi/kjffpdeflcpflmilnjgfhiheonjnalfo) and   [Portfolio](https://mukeshbishnoi.me/).
 
 
 ### We can have chat at any social platform:
