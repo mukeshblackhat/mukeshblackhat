@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am [Mukesh](https://github.com/mukeshblackhat) , a Software Developer  in Unolo  making scalable web applications which can be used by people and help them to do certain work easily.
+I am [Mukesh](https://github.com/mukeshblackhat) , a Software Developer  in [Foosh](https://foosh.ai) making scalable web applications which can be used by people and help them to do certain work easily.
 
 
 - 🌱 I’m know how to build applications with MERN Stack and deploy them completely at ready to use level.
